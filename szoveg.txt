@@ -6,3 +6,4 @@ harmadik
 negyedik
 ötödik
 hatodik a másik ágon
+hetedik a harmadik ágon
